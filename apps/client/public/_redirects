@@ -1,0 +1,5 @@
+# API proxy to Railway backend
+/api/*  https://exampreperation-production.up.railway.app/api/:splat  200
+
+# SPA fallback for client-side routing
+/*  /index.html  200

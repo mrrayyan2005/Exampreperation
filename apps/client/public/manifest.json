@@ -1,0 +1,24 @@
+{
+  "name": "ExamPrep",
+  "short_name": "ExamPrep",
+  "description": "High-Performance AI-Powered Study Planner",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "scope": "/"
+}
